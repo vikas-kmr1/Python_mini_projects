@@ -14,6 +14,6 @@ def guess_number(x):
         elif guess>random_number:
             print(f"Ahh, guess again , {guess} is too high")
 
-    print(f"Yay,Congrats the computer have guessed the random number {guess} correctly:")  
+    print(f"Yay,Congrats the computer have guessed the number {guess} correctly:")  
 
 guess_number(10)
