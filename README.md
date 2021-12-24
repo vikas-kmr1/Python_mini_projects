@@ -5,3 +5,4 @@
 4. hangman
 5. Rock Paper Scissor
 6. Tic Tac Toe with smart computer 
+7. Snake and Ladder
